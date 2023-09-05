@@ -1,0 +1,10 @@
+{
+	"AssessRecord": {
+		"ID": "123-111",
+		"Latitude":"33.9183",
+		"Addresses": [
+			"970 Alice Ln",
+			"1100 South Hill Street"
+		]
+	}
+}
